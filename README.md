@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repo for Course Project
+This is a cloned repo for the Course Project locally.
